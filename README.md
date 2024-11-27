@@ -95,6 +95,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - "JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models", 2024-03, [[paper]](https://arxiv.org/pdf/2404.01318)
 - "AgentDojo: A Dynamic Environment to Evaluate Attacks and Defenses for LLM Agents", 2024-06, NeurIPS 24, [[paper]](https://arxiv.org/pdf/2406.13352) [[repo]](https://github.com/ethz-spylab/agentdojo) [[site]](https://agentdojo.spylab.ai/)
 - "AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents", 2024-10, [[paper]](https://arxiv.org/abs/2410.09024)
+- "GuardBench: A Large-Scale Benchmark for Guardrail Models", 2024-11, EMNLP 24, [[paper]](https://aclanthology.org/2024.emnlp-main.1022.pdf) [[repo]](https://github.com/AmenRa/guardbench)
 
 ## Tools
 
